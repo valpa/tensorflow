@@ -29,7 +29,7 @@ filegroup(
 )
 
 filegroup(
-    name = "objcopy",
+    name = "testobjcopy",
     srcs = [
         "bin/arm-linux-gnueabihf-objcopy",
     ],
