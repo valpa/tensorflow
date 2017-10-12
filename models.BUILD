@@ -13,6 +13,7 @@ filegroup(
             "**/WORKSPACE",
             "**/LICENSE",
             "**/*.zip",
+	    "**/CAI",
         ],
     ),
 )
