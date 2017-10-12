@@ -19,7 +19,7 @@ load(
 load("@local_config_cuda//cuda:build_defs.bzl", "if_cuda", "cuda_default_copts")
 
 load(
-    "//third_party/mkl:build_defs.bzl",
+    "caicai",
     "if_mkl",)
 
 
